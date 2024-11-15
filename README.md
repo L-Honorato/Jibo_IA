@@ -3,13 +3,17 @@ O projeto Jibó_IA visa desenvolver softwares que atendam às demandas da Promot
 
 ## Justificativa
 Embora a tecnologia desempenhe um papel essencial, ela não deve ser vista como um fim em si mesma, mas como um meio para alcançar melhorias concretas na prestação de serviços públicos. A busca pela eficiência nos serviços prestados pela Promotoria de Defesa da Criança e do Adolescente de Cruzeiro do Sul é fundamental para garantir uma atuação mais efetiva e orientada ao cidadão. No entanto, a implementação de inovações tecnológicas em políticas públicas enfrenta desafios significativos, como resistência à mudança, limitações de recursos e a necessidade de adequação às realidades locais. Portanto, a utilização de tecnologias como a ciência de dados e a automação de processos deve ser acompanhada de uma estratégia que promova a capacitação, o engajamento dos envolvidos e o alinhamento com os objetivos sociais e legais da instituição.  
+  
 A situação-problema enfrentada pelo projeto Jibó_IA é a distância entre as competências da equipe de desenvolvimento e do *Product Owner*. Essa distância se manifesta em diferentes aspectos, como dificuldades de comunicação, diferenças no entendimento do produto e nas expectativas quanto ao desenvolvimento, além de lacunas no conhecimento técnico do *Product Owner* e na compreensão dos requisitos de negócio por parte da equipe técnica.
+  
 Essa desarticulação pode ter um impacto direto na qualidade do *software* desenvolvido, resultando em retrabalho, atrasos e desentendimento dos requisitos que deveriam ser implementados. Também pode afetar a satisfação dos *stakeholders* e a capacidade de entrega ágil do projeto.  
+  
 O Projeto Jibó_IA tem por objetivo reduzir essa distância, promovendo a integração das competências necessárias por meio de uma abordagem fundada em ciência de dados, automação de processos e *machine learning*. Com foco em capacitação, alinhamento contínuo e uso de boas práticas de desenvolvimento de *software*, o projeto visa criar um ambiente colaborativo em que a equipe técnica e o *Product Owner* possam trabalhar em sintonia, garantindo a eficácia e a qualidade das entregas.  
 
 ## Objetivos
 **Objetivo Geral:** 
 Desenvolver *softwares* que atendam às demandas da Promotoria de Defesa da Criança e do Adolescente de Cruzeiro do Sul e de projetos correlatos, a partir da redução da distância entre as competências da equipe de desenvolvimento e do *Product Owner*, promovendo integração e eficiência através da ciência de dados e machine learning, automação de processos e boas práticas de desenvolvimento de *software*.  
+  
 **Objetivos específicos:**
 1. Capacitar a equipe de desenvolvimento e o *Product Owner* em ciência de dados, automação de processos e boas práticas de desenvolvimento de *software*.   
 2. Implementar práticas de alinhamento contínuo entre a equipe de desenvolvimento e o *Product Owner* para melhorar a comunicação e o entendimento dos requisitos do projeto.  
@@ -23,15 +27,37 @@ Desenvolver *softwares* que atendam às demandas da Promotoria de Defesa da Cria
 | ---- | ----- | -------------------- | ------ |
 | 1 | Capacitação da Equipe: Realizar treinamentos específicos bimestrais para a equipe de desenvolvimento e o Product Owner, até dezembro de 2025. (7 capacitações) | Aproximação entre PO e equipe de desenvolvimento. | 10% |
 | 2 | Implementação de Práticas Ágeis: Estabelecer reuniões mensais de alinhamento e revisão dos projetos, até dezembro de 2025. (15 reuniões) | Eficiência na entrega. | 10% |
-3
-Desenvolvimento de Módulos Automatizados: Entregar, até dezembro de 2025, pelo menos três módulos de software que automatizem processos administrativos da Promotoria.
-Produtos entregues.
-30%
-4
-Integração das Demandas do Observatório Curica: Concluir a integração das demandas do Observatório Curica ao sistema, permitindo análise e geração de relatórios, até o final de 2025.
-Produtos entregues.
-50%
-6
-Aplicação dos Princípios SOLID: Garantir que todos os módulos desenvolvidos sigam os princípios SOLID, com revisões de código mensais realizadas por especialistas até o final do projeto.
-Facilidade na manutenção e ampliação do código.
-5%
+| 3 | Desenvolvimento de Módulos Automatizados: Entregar, até dezembro de 2025, pelo menos três módulos de software que automatizem processos administrativos da Promotoria. | Produtos entregues. | 30% |
+| 4 | Integração das Demandas do Observatório Curica: Concluir a integração das demandas do Observatório Curica ao sistema, permitindo análise e geração de relatórios, até o final de 2025. | Produtos entregues. | 50% |
+| 5 | Aplicação dos Princípios SOLID: Garantir que todos os módulos desenvolvidos sigam os princípios SOLID, com revisões de código mensais realizadas por especialistas até o final do projeto. | Facilidade na manutenção e ampliação do código. | 5% |
+| 6 | Entregas Incrementais: Assegurar entregas incrementais dos módulos desenvolvidos a cada dois meses, promovendo ciclos contínuos de feedback e melhoria. (7 entregas) | Produtos entregues. | 5% |
+
+## Indicadores
+| Meta | Indicador |
+| ---- | --------- |
+| 01 | Número de capacitações bimestrais. |
+| 02 | Número de reuniões mensais. |
+| 03 | Número de módulos que automatizam processos administrativos internos entregues.|
+| 04 | Número de entregas para o Observatório Curica. |
+| 05 | Número de entregas que aplicam os princípios SOLID. |
+| 06 | Número de entregas realizadas no prazo de dois meses. |
+
+## Cronograma
+| Etapa/Fase | Unidade | Quantidade | Início | Término |
+| ---------- | ------- | ---------- | ------ | ------- |
+| 1.1. Entrega Curica | 1 | 22 | Out/2024 | Dez/2024 |
+| 1.2. Entrega Curica | 1 | 22 | Out/2024 | Dez/2024 |
+| 1.3. Entrega Curica | 1 | 22 | Out/2024 | Dez/2024 |
+| 1.4. Entrega Curica | 1 | 22 | Jan/2025 | Abr/2025 |
+| 1.5. Entrega Curica | 1 | 22 | Jan/2025 | Abr/2025 |
+| 1.6. Entrega Curica | 1 | 22 | Jan/2025 | Abr/2025 |
+| 1.7. Entrega Curica | 1 | 22 | Mai/2025 | Jul/2025 |
+| 1.8. Entrega Curica | 1 | 22 | Mai/2025 | Jul/2025 |
+| 1.9. Entrega Curica | 1 | 22 | Mai/2025 | Jul/2025 |
+| 1.10. Entrega Curica | 1 | 22 | Ago/2025 | Dez/2025 |
+| 1.11. Entrega Curica | 1 | 22 | Ago/2025 | Dez/2025 |
+| 1.12. Entrega automatização processos | 1 | 1 | Ago/2025 | Dez/2025 |
+| 1.13. Entrega automatização processos | 1 | 1 | Ago/2025 | Dez/2025 |
+| 1.14. Entrega automatização processos | 1 | 1 | Ago/2025 | Dez/2025 |
+
+
